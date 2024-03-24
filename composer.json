@@ -3,7 +3,9 @@
     "description": "PHP Logger Aware Trait",
     "type": "library",
     "require": {
-        "php": "^8.3"
+        "php": "^8.3",
+        "potter/logger-aware-interface": "dev-main",
+        "psr/log": "^3.0@dev"
     },
     "license": "MIT",
     "autoload": {
