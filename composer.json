@@ -1,0 +1,21 @@
+{
+    "name": "potter/logger-aware-trait",
+    "description": "PHP Logger Aware Trait",
+    "type": "library",
+    "require": {
+        "php": "^8.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Potter\\Logger\\Aware\\": "src/Potter/Logger/Aware/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jay Potter",
+            "email": "j@ypotter.ca"
+        }
+    ],
+    "minimum-stability": "dev"
+}
