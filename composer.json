@@ -8,6 +8,15 @@
         "potter/logger-aware-interface": "dev-main",
         "psr/log": "^3.0@dev"
     },
+    "suggest": {
+        "potter/logger-aware": "dev-main",
+        "potter/logger-traits": "dev-main",
+        "potter/logger": "dev-main",
+        "potter/aware-traits": "dev-main",
+        "potter/aware": "dev-main",
+        "potter/traits": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
