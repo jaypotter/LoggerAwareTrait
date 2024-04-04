@@ -1,6 +1,6 @@
 {
     "name": "potter/logger-aware-trait",
-    "description": "PHP Logger Aware Trait",
+    "description": "PHP Aware Trait for PSR-3 Loggers",
     "type": "library",
     "require": {
         "php": "^8.3",
