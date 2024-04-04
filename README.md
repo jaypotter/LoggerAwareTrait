@@ -1,5 +1,5 @@
 # LoggerAwareTrait
-PHP Logger Aware Trait
+PHP Aware Trait for PSR-3 Loggers
 
 `composer require potter/logger-aware-trait`
 
