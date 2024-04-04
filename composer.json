@@ -4,8 +4,8 @@
     "type": "library",
     "require": {
         "php": "^8.3",
-        "psr/container": "^2.0@dev",
-        "psr/log": "^3.0@dev"
+        "psr/container": "^2.0",
+        "psr/log": "^3.0"
     },
     "suggest": {
         "potter/logger-aware": "dev-main",
@@ -28,5 +28,5 @@
             "email": "j@ypotter.ca"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
